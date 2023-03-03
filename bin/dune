@@ -1,0 +1,4 @@
+(executable
+ (public_name shakespearian_Monkeys)
+ (name main)
+ (libraries shakespearian_Monkeys))
